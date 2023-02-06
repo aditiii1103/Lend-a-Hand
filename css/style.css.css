@@ -1,0 +1,240 @@
+body{
+     background-color:#ECF9FF;  
+     font-family: 'PT Serif', serif;
+     font-size:20px;
+}
+.btn-primary{
+    background:#313461;
+    border:#313461;
+}
+.jumbotron{
+    background:#333 url('../img/background.jpg') center center ;
+    opacity: 1;
+    color:#F8F4EA;
+    text-align:center;
+    border-bottom: 5px #f4f4f4 solid;
+    background-size: cover;
+    z-index:30;
+}
+.jumbotron-main{
+    padding:0 60px 40px 60px;
+}
+.navbar-brand{
+    font-family: 'PT Serif', serif;
+    color:white !important;
+    font-size:35px !important; 
+    z-index:30;
+   
+}
+
+.jumbotron-main h1{
+    font-family:fantasy;
+    margin-top:10px;
+    color:#DEF5E5;
+    margin-bottom:30px;
+    margin-right:20px;
+    z-index:100;
+    
+}
+.jumbotron p.lead{
+    font-size:25px;
+    margin-bottom:5px;
+    font-family: serif;
+    color:#FFFBF5;
+    font-weight:bold;
+    margin-left:150px;
+    margin-right:150px;
+  
+    z-index: 50;
+  
+    
+}
+ .jumbotron-sub{
+padding: 0 60px 40px 60px;
+} 
+
+
+.navbar a{
+    float:right;
+    font-size:20px;
+    color:rgb(244, 240, 240);
+}
+ 
+ h2{
+    margin:0;
+    background:none;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float:left;
+    font-size:40px;
+    color:black;
+    z-index:auto;
+    
+    
+}
+ 
+.list-group-item{
+    background-color:#F9F9F9;
+}
+ 
+ .navbar a:hover{
+    font-style:bold;
+    background:none !important;
+    color: white;
+    border-bottom:#fff 3px solid;
+    padding-bottom:0px;
+    margin-bottom :3px;
+    
+ }
+
+ .blockquotefoot{
+    color:whitesmoke;
+    text-indent:10rem;
+   
+    text-align:right;
+ font-size: 20px;
+ margin-right:100px;
+ z-index: 30;
+    
+}
+ .box{
+    text-align:center;
+    padding:10px;
+    padding-right:45px;
+ }
+.well{
+    padding:40px;
+    
+font-size:20px;
+    background:#F9F9F9;
+    float:right;
+    width:350px;
+    margin-top:60px;
+    margin-left:20px;
+    border:2px solid grey;
+}   
+.well img{
+    width:60px;
+    height:60px;
+}
+.section-a{
+    background:#313461;
+    color:white;
+    text-align:center;
+    padding:50px;
+    margin-bottom:30px;
+}
+.section-a h1{
+font-size:50px;
+}
+.img-full{
+    width:100%;
+    
+}
+.main-footer{
+   padding:50px;
+  
+   
+    background:rgb(177, 173, 214)
+}
+.list-unstyled{
+    margin-left:70px;
+   padding-left:100px;
+    margin-bottom:50px;
+    padding-top:70px;
+ 
+}
+a{
+    color:black;
+}
+.collapsed{
+    background:#F8787F;
+    font-family:'Times New Roman', Times, serif;
+    border:none;
+    color:black;
+    text-decoration:none;
+    padding:5px;
+    padding-bottom:6px;
+    padding-right:40px;
+    font-size:smaller;
+    
+}
+#headingOne{
+    padding-right:10px;
+    background: #F8787F;
+    padding-top:5px;
+    padding-bottom:1px;
+    border:1px solid black;
+}
+#headingTwo{
+    padding-right:10px;
+    background: #F8787F;
+    padding-top:5px;
+    padding-bottom:1px;
+    border:1px solid black;
+}
+#headingThree{
+    padding-right:10px;
+    background:#F8787F;
+    padding-top:5px;
+    padding-bottom:1px;
+    border:1px solid black;
+    margin-bottom:10px;
+}
+.tank{
+   
+    padding:10px;
+    font-size:20px;
+        background:rgb(215, 215, 221);
+        float:right;
+        width:350px;
+        margin-top:50px;
+        margin-left:20px;
+        border:2px solid grey;
+}
+.panel-sky{
+    background:#FFD1D1;
+    border:1px solid black;
+    
+}
+.ray{
+    padding:10px;
+    font-size:20px;
+        background:rgb(215, 215, 221);
+        float:right;
+        width:350px;
+        margin-top:30px;
+        margin-left:20px;
+        border:2px solid grey;
+       
+}
+li{
+padding-bottom:10px;
+padding-left:10px;
+}
+.list-unstyled img{
+    padding-right:10px;
+}
+
+.carousel-inner{
+   position: relative;
+  
+    border:5px solid black;
+    
+}
+
+.carousel-item img {
+    object-fit:cover;
+    width:100%;
+    height: 500px;
+  }
+
+  .topheading{
+   padding-top:50px;
+   padding-bottom: 10px;
+   margin-bottom:-50px;
+  
+      
+   
+    text-align: center;
+  }
+  
